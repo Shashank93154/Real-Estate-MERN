@@ -41,14 +41,14 @@ This project is a *Real Estate Application* built using the MERN stack (MongoDB,
   - RESTful API for fetching property data, managing user sessions, and performing CRUD operations on property listings
   
 - *Deployment:*
-  - Deployed on [Heroku, Vercel, Netlify, etc.]
+  - Deployed on render.
   - MongoDB Atlas for database hosting
   
 ## Installation and Setup
 
 1. Clone the repository:
    bash
-   git clone https://github.com/yourusername/real-estate-app.git
+   git clone https://github.com/Shashank93154/Real-Estate-MERN/tree/main
    
 2. Navigate to the project folder:
    bash
